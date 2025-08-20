@@ -1,8 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/
 About,/about.html
-Browse the collection,,
-The Collection,/browse.html,Browse the collection
+Browse the collection,/browse.html
 Performaces,,
 Augus Mawnin,/augusmawnin.html,Performaces
 Zuzuwah,/zuzuwah.html,Performaces
