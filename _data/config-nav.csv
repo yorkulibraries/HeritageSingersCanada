@@ -2,7 +2,7 @@ display_name,stub,dropdown_parent
 Home,/
 About,/about.html
 Browse the collection,,
-Browse,/browse.html,Browse
+The Collection,/browse.html,Browse
 Subjects,/subjects.html
 Locations,/locations.html
 Map,/map.html
