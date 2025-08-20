@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This digtal exhibit is established as an extention of the recently established Heritage Singers archival collection at the CLara Thomas Archives at York University [HSCollection](https://atom.library.yorku.ca/index.php/heritage-singers-canada-fonds-f0783), a project to commemorate and celebrate the legacy of the Heritage Singers: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
