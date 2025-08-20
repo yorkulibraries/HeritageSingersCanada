@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://dinabp.github.io/HSCollection/item.html?id=coll001" %}
+{% include feature/jumbotron.html objectid="coll001" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
