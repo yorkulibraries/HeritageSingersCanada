@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
 featured-image: coll008
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 15em # Default is 8em
+home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center # Default is center
 
@@ -51,7 +51,7 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 ##########
 # TIMELINE PAGE
 #
-year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
+year-navigation: 1970;1980;1990;2000;2010;2020 #"1970;1980;1990;2000;2010" # set years to appear in dropdown nav, leave blank to auto gen
 year-nav-increment: 5 # set increments when auto gen nav years
 
 ##########
@@ -86,12 +86,12 @@ search-child-objects: true # true / false - if true, child objects will appear o
 navbar-color: navbar-dark
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: bg-dark
+navbar-background: bg-warning
 
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: litera # leave blank or comment out for plain bootstrap
+bootswatch: united # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
