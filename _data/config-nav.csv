@@ -1,13 +1,17 @@
 display_name,stub,dropdown_parent
 Home,/
 About,/about.html
-Browse the collection,/browse.html
-Performaces,,
-Augus Mawnin,/augusmawnin.html,Performaces
-Zuzuwah,/zuzuwah.html,Performaces
-Hallelujah Pepperpot,/hallelujah.html,Performaces
-Olde Tyme Country Wedding,/OTCW.html,Performaces
-Subjects,/subjects.html
+Browse the collection,,
+Images/browse.html,Browse the collection
+Videos,vids.html,Browse the collection
+Interviews,interviews.html,Browse the collection
+Performances,,
+Augus Mawnin,/augusmawnin.html,Performances
+Zuzuwah,/zuzuwah.html,Performances
+Hallelujah Pepperpot,/hallelujah.html,Performances
+Olde Tyme Country Wedding,/OTCW.html,Performances
+International Performances & Festivals,/intfest.html,Performances
+Meet the Singers,/subjects.html
 Locations,/locations.html
 Map,/map.html
 Timeline,/timeline.html
