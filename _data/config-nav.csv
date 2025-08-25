@@ -1,6 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
-About,/about.html
+About,,
+About,/about.html,About
+Timeline,/timeline.html,About
 Browse the collection,,
 Images,/browse.html,Browse the collection
 Documents,/docs.html,Browse the collection
@@ -13,7 +15,5 @@ Hallelujah Pepperpot,/hallelujah.html,Performances
 Olde Tyme Country Wedding,/OTCW.html,Performances
 International Performances & Festivals,/intfest.html,Performances
 Meet the Singers,/subjects.html
-Locations,/locations.html
 Map,/map.html
-Timeline,/timeline.html
 Data,/data.html
