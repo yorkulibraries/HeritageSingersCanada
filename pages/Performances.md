@@ -8,21 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+The Heritage Singers preserve Caribbean culture through folk song and theatrical performance. Their repertoire is highly influenced by the work of ethnomusicologist Olive Lewin who travelled thoruhgout Jamaica’s villages in 1966 and recorded the folk songs of the island. These songs, which were the ways in which “the news” was reported on and shared in the countryside, became the source material for musical arrangements in the group she founded, the Jamaican Folk Singers. Grace Carter-Henry Lyons performed in this group, as did other members of the Heritage Singers, such as Philomen Campbell. The Heritage Singers Canada, however, diverges from Lewin’s productions by transposing the source material from Jamaica to Toronto. The Heritage Singers Canada Fonds at the Clara Thomas Archives and Special Collections includes documentation of the HSC performances, rehearsals, and interviews on VHS tape, audiocassettes, CDs, and photographs. Radio interviews, an appearance on Citytv’s Breakfast Television, and anniversary documentation are intermixed with performances in churches and on the international stage.
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
-## About the Collection
-
-This digtal exhibit is established as an extention of the recently established Heritage Singers archival collection at the CLara Thomas Archives at York University [Heritage Singers Canada ](https://atom.library.yorku.ca/index.php/heritage-singers-canada-fonds-f0783), a project to commemorate and celebrate the legacy of the Heritage Singers: 
-
-{% include feature/image.html objectid="coll001" width="75" %}
-
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Along with the new geography, Lyons created new arrangements, developed scripts depicting diasporic life in Canada, and put an international spin on what the group could be. Folded into the Heritage Singers’ repertoire are historical Black Canadian spirituals and performances of the host country’s folk songs at international festivals in their native language. The Heritage Singers further updated their repertoire with Caribbean and especially Jamaican contemporary music in the 1980s and 1990s by creating new arrangements to perform music by Bob Marley and the Wailers, as well as injecting dancehall rhythms and movements into their theatre productions.  The theatrical presentations recorded on VHS are particularly important because they served as nostalgic recollections of everyday life “back home” for the generation - now in Canada - that grew up in the 1950s and 60s especially. The folk songs as well as the theatrical productions such as Augus Mawnin’, the three iterations of Zuzuwah, and Olde Tyme Country Wedding, all reinterpret the past for contemporary audiences. They also document the Jamiekan Languij (Jamaican language) as it is spoken in Canada. These are performances second and future generations in Canada can home in on to arrive at greater self-understanding.
+ 
+      From the Netherlands to Venezuela, Harlem to Saskatoon, Zacatecas, Mexico to St. Paul’s Bloor Street Church, the Heritage Singers brought and continue to bring Caribbean music, philosophy, news, and language as humble offerings to foster relations with the people and places they live in and move through.
