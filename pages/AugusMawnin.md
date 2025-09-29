@@ -1,6 +1,6 @@
 ---
 title: Performances
-layout: page-full-width
+layout: Browse
 permalink: /AugusMawnin.html
 ---
 
