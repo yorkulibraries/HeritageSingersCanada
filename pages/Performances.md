@@ -1,6 +1,6 @@
 ---
 title: Performances
-layout: default
+layout: about
 permalink: /performances.html
 # include CollectionBuilder info at bottom
 credits: true
