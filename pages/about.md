@@ -20,11 +20,11 @@ The Heritage Singers Canada fonds housed in the Clara Thomas Archives and Specia
 
 “This project was graciously funded by the York University Research Support Fund.  We also thank the Clara Thomas Archives and Special Collection for their In-kind ($300) support of this project by scanning selected materials from the Heritage Singers Canada fonds. 
 
-Original site created by: Debbie Ebanks, Dina Blanco Pena and Norda Bell 
-               Project Heads: Debbie Ebanks and Norda Bell
-               Research Assistant: Dina Blanco Pena
+- **Original site created by:** Debbie Ebanks, Dina Blanco Pena and Norda Bell 
+- **Project Heads:** Debbie Ebanks and Norda Bell
+- **Research Assistant:** Dina Blanco Pena
 
-Special Thanks: Grace Lyons, Founder, Heritage Singers; Anna St. Onge, Interim University Archivist & Julia Holland, Archives Assistant, Clara Thomas Archives and Special Collections, York University; Kris Joseph, Digital Scholarship Librarian, York University Libraries; Staff at the Clara Thomas Archives and Special Collections, York University Libraries.
+**Special Thanks:** Grace Lyons, Founder, Heritage Singers; Anna St. Onge, Interim University Archivist & Julia Holland, Archives Assistant, Clara Thomas Archives and Special Collections, York University; Kris Joseph, Digital Scholarship Librarian, York University Libraries; Staff at the Clara Thomas Archives and Special Collections, York University Libraries.
 
 ## About the Heritage Singers
 
