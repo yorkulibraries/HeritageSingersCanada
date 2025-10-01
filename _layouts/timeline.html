@@ -38,14 +38,14 @@ custom-foot: js/timeline-js.html
 
 {{ content }}
 
-<h3><a href="#y{{ uniqueYears | first }}">{{ uniqueYears | first }}</a> to <a href="#y{{ uniqueYears | last }}">{{ uniqueYears | last }}</a></h3>
+<h3><a href="#y{{ 1983 | first }}">{{ uniqueYears | first }}</a> to <a href="#y{{ 2017 | last }}">{{ uniqueYears | last }}</a></h3>
 
 <table id="timeline" class="table table-striped">
     <tbody>
         {% for year in uniqueYears %}
-        <tr id="y{{ 1977 }}">
+        <tr id="y{{ year }}">
             <th>
-                <h3>{{ 2017 }}</h3>
+                <h3>{{ year }}</h3>
             </th>
             <td>
                 <div class="row">
