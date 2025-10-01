@@ -7,6 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+{% include feature/image.html objectid="coll053" width="75" %}
 
 ## Performances
 
@@ -15,3 +16,5 @@ The Heritage Singers preserve Caribbean culture through folk song and theatrical
 Along with the new geography, Lyons created new arrangements, developed scripts depicting diasporic life in Canada, and put an international spin on what the group could be. Folded into the Heritage Singers’ repertoire are historical Black Canadian spirituals and performances of the host country’s folk songs at international festivals in their native language. The Heritage Singers further updated their repertoire with Caribbean and especially Jamaican contemporary music in the 1980s and 1990s by creating new arrangements to perform music by Bob Marley and the Wailers, as well as injecting dancehall rhythms and movements into their theatre productions.  The theatrical presentations recorded on VHS are particularly important because they served as nostalgic recollections of everyday life “back home” for the generation - now in Canada - that grew up in the 1950s and 60s especially. The folk songs as well as the theatrical productions such as Augus Mawnin’, the three iterations of Zuzuwah, and Olde Tyme Country Wedding, all reinterpret the past for contemporary audiences. They also document the Jamiekan Languij (Jamaican language) as it is spoken in Canada. These are performances second and future generations in Canada can home in on to arrive at greater self-understanding.
  
 From the Netherlands to Venezuela, Harlem to Saskatoon, Zacatecas, Mexico to St. Paul’s Bloor Street Church, the Heritage Singers brought and continue to bring Caribbean music, philosophy, news, and language as humble offerings to foster relations with the people and places they live in and move through.
+
+{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="coll053" width="25" centered=true %} {% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="coll053" width="25" centered=true %} {% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="coll053" width="25" centered=true %}
