@@ -17,5 +17,4 @@ Along with the new geography, Lyons created new arrangements, developed scripts 
  
 From the Netherlands to Venezuela, Harlem to Saskatoon, Zacatecas, Mexico to St. Paul’s Bloor Street Church, the Heritage Singers brought and continue to bring Caribbean music, philosophy, news, and language as humble offerings to foster relations with the people and places they live in and move through.
 
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="coll053" width="25" float"start" %} {% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="coll053" width="25" float="end" %}
 
