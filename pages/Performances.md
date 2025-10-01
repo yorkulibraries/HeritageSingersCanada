@@ -19,21 +19,21 @@ From the Netherlands to Venezuela, Harlem to Saskatoon, Zacatecas, Mexico to St.
 
 <div class="card-group">
   <div class="card">
-    <img src="..." objectid="coll053" alt="objectid="coll053"">
+    <img src="..." class="card-img-top" alt="objectid="coll053"">
     <div class="card-body">
       <h5 class="card-title">Zuzuwah</h5>
       <p class="card-text">about Heritage Singer's performance Zuzuwah</p>
     </div>
   </div>
   <div class="card">
-    <img src="..."  alt="objectid="coll053"">
+    <img src="..." class="card-img-top" alt="objectid="coll053"">
     <div class="card-body">
       <h5 class="card-title">Augus Mawnin</h5>
       <p class="card-text">about the performance Augus Mawnin.</p>
     </div>
   </div>
   <div class="card">
-    <img src="..."  alt="objectid="coll053"">
+    <img src="..." class="card-img-top" alt="objectid="coll053"">
     <div class="card-body">
       <h5 class="card-title">Olde Tyme Country Wedding</h5>
       <p class="card-text">about the performace Olde tyme Country Wedding.</p>
