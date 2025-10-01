@@ -17,29 +17,5 @@ Along with the new geography, Lyons created new arrangements, developed scripts 
  
 From the Netherlands to Venezuela, Harlem to Saskatoon, Zacatecas, Mexico to St. Paul’s Bloor Street Church, the Heritage Singers brought and continue to bring Caribbean music, philosophy, news, and language as humble offerings to foster relations with the people and places they live in and move through.
 
-<div class="card-deck">
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">objectid="coll053"</img>
-    <div class="card-body">
-      <h5 class="card-title">Agus Mawnin</h5>
-      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Zuzuwah</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Olde Tyme Country Weding</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-</div>
+{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="coll053" width="25" float"start" %} {% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="coll053" width="25" float="end" %}
+
