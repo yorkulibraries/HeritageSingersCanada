@@ -1,6 +1,6 @@
 ---
 title: Performances
-layout: page-full-width
+layout: page-narrow
 permalink: /performances.html
 # include CollectionBuilder info at bottom
 credits: true
