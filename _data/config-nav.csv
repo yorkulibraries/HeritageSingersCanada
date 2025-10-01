@@ -1,8 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
-About the Heritage Singers,,
-About,/about.html,About the Heritage Singers
-Timeline,/timeline.html,About the Heritage Singers
+About,,
+About,/about.html,About
+Timeline,/timeline.html,About
 Browse the collection,,
 Images,/browse.html,Browse the collection
 Documents,/docs.html,Browse the collection
