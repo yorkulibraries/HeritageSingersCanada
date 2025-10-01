@@ -10,23 +10,17 @@ credits: true
 
 {% include feature/jumbotron.html objectid="coll001" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Heritage Singers; About the Site" %}
 
-### About this Site
+### About the Collection
 
-The Heritage Singers Canada fonds housed in the Clara Thomas Archives and Special Collections consists of 0.22 metres of textual material, 35 videocassettes: VHS, 4 CDs, 5 DVDs, 26 audio cassettes, 4 DAT tapes, 193 photographs: 46 x 30 cm and smaller, and 26 photographic negatives. This site offers a selection of some of the resources from the fonds. Please consult the finding aid [Heritage Singers Canada Fond](https://atom.library.yorku.ca/downloads/heritage-singers-canada-fonds-f0783.pdf), to help access the rest of the collection.
+The Heritage Singers Canada fonds housed in the Clara Thomas Archives and Special Collections consists of 0.22 metres of textual material, 35 videocassettes: VHS, 4 CDs, 5 DVDs, 26 audio cassettes, 4 DAT tapes, 193 photographs: 46 x 30 cm and smaller, and 26 photographic negatives. 
 
-### Original Site Credits 
+The audiovisual material preserves the language - both Jamaican English and Jamaican Patois/Patwa as interpreted in plays and songs by Jamaican Canadians, thus bearing the linguistic and other cultural changes and inflections that come with migration. Documentary records include brochures, programs, organizational papers, a portfolio, newspaper clippings from several Black newspapers in Toronto, and award certificates from various levels of government.
 
-“This project was graciously funded by the York University Research Support Fund.  We also thank the Clara Thomas Archives and Special Collection for their In-kind ($300) support of this project by scanning selected materials from the Heritage Singers Canada fonds. 
+This site offers a selection of some of the resources from the fonds. Please consult the finding aid [Heritage Singers Canada Fond](https://atom.library.yorku.ca/downloads/heritage-singers-canada-fonds-f0783.pdf), to help access the rest of the collection.
 
-- **Original site created by:** Debbie Ebanks, Dina Blanco Pena and Norda Bell 
-- **Project Heads:** Debbie Ebanks and Norda Bell
-- **Research Assistant:** Dina Blanco Pena
-
-**Special Thanks:** Grace Lyons, Founder, Heritage Singers; Anna St. Onge, Interim University Archivist & Julia Holland, Archives Assistant, Clara Thomas Archives and Special Collections, York University; Kris Joseph, Digital Scholarship Librarian, York University Libraries; Staff at the Clara Thomas Archives and Special Collections, York University Libraries.
-
-## About the Heritage Singers
+### About the Heritage Singers
 
 “The Heritage Singers Canada was founded by Grace Carter-Henry Lyons in 1977.
 Meeting in living rooms, they gathered as friends to overcome the loneliness after
@@ -53,6 +47,18 @@ alongside the Jean Augustine fonds and the Caribana collection in the Kenneth Sh
 fonds. Caribbean culture is grounded in oral tradition. It is within these embodied, living
 archives—living “istriis” to use the Jamaican language— of songs, stories, movement,
 and gatherings that our history is preserved.”
+
+### About this Site 
+
+“This project was graciously funded by the York University Research Support Fund.  We also thank the Clara Thomas Archives and Special Collection for their In-kind ($300) support of this project by scanning selected materials from the Heritage Singers Canada fonds. 
+
+- **Original site created by:** Debbie Ebanks, Dina Blanco Pena and Norda Bell 
+- **Project Heads:** Debbie Ebanks and Norda Bell
+- **Research Assistant:** Dina Blanco Pena
+
+**Special Thanks:** Grace Lyons, Founder, Heritage Singers; Anna St. Onge, Interim University Archivist & Julia Holland, Archives Assistant, Clara Thomas Archives and Special Collections, York University; Kris Joseph, Digital Scholarship Librarian, York University Libraries; Staff at the Clara Thomas Archives and Special Collections, York University Libraries.
+
+
 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
