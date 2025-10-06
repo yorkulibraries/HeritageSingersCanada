@@ -8,9 +8,7 @@ Images,/browse.html,Browse the collection
 Documents,/docs.html,Browse the collection
 Digitized VHS,vids.html,Browse the collection
 Interviews,interviews.html,Browse the collection
-Performances,,
-Performances,/performances.html,Performances
-“Festivals and Tours”,/intfest.html,Performances
+Performances,/performances.html
 Map,/map.html
 Data,/data.html
 Subjects,/subjects.html
