@@ -3,11 +3,7 @@ Home,/
 About,,
 About,/about.html,About
 Timeline,/timeline.html,About
-Browse the collection,,
-Images,/browse.html,Browse the collection
-Documents,/docs.html,Browse the collection
-Digitized VHS,vids.html,Browse the collection
-Interviews,interviews.html,Browse the collection
+Browse the collection,/browse.html
 Performances,/performances.html
 Map,/map.html
 Data,/data.html
