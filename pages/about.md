@@ -22,7 +22,7 @@ This site offers a selection of some of the resources from the fonds. Please con
 
 ### About the Heritage Singers
 
-“The Heritage Singers Canada was founded by Grace Carter-Henry Lyons in 1977.
+The Heritage Singers Canada was founded by Grace Carter-Henry Lyons in 1977.
 Meeting in living rooms, they gathered as friends to overcome the loneliness after
 immigrating to Canada from Jamaica. The 30-member group is a dynamic blend of the
 Caribbean, African and Canadian mosaic, drawing its members from Toronto, Trinidad
@@ -56,7 +56,10 @@ and gatherings that our history is preserved.”
 - **Project Heads:** Debbie Ebanks and Norda Bell
 - **Research Assistant:** Dina Blanco Pena
 
-**Special Thanks:** Grace Lyons, Founder, Heritage Singers; Anna St. Onge, Interim University Archivist & Julia Holland, Archives Assistant, Clara Thomas Archives and Special Collections, York University; Kris Joseph, Digital Scholarship Librarian, York University Libraries; Staff at the Clara Thomas Archives and Special Collections, York University Libraries.
+**Special Thanks:** Grace Lyons, Founder, Heritage Singers;
+Anna St. Onge, Interim University Archivist & Julia Holland, Archives Assistant, Clara Thomas Archives and Special Collections, York University; 
+Kris Joseph, Digital Scholarship Librarian, York University Libraries; 
+Staff at the Clara Thomas Archives and Special Collections, York University Libraries.
 
 
 
