@@ -18,7 +18,7 @@ The Heritage Singers Canada fonds housed in the Clara Thomas Archives and Specia
 
 The audiovisual material preserves the language - both Jamaican English and Jamaican Patois/Patwa as interpreted in plays and songs by Jamaican Canadians, thus bearing the linguistic and other cultural changes and inflections that come with migration. Documentary records include brochures, programs, organizational papers, a portfolio, newspaper clippings from several Black newspapers in Toronto, and award certificates from various levels of government.
 
-This site offers a selection of some of the resources from the fonds. Please consult the finding aid [Heritage Singers Canada Fond](https://atom.library.yorku.ca/downloads/heritage-singers-canada-fonds-f0783.pdf), to help access the rest of the collection.
+This site offers a selection of some of the resources from the fonds. Please consult the finding aid [Heritage Singers Canada Fonds](https://atom.library.yorku.ca/downloads/heritage-singers-canada-fonds-f0783.pdf), to help access the rest of the collection.
 
 ### About the Heritage Singers
 
@@ -46,20 +46,21 @@ Thomas Archives and Special Collections at York University Libraries, where it s
 alongside the Jean Augustine fonds and the Caribana collection in the Kenneth Shah
 fonds. Caribbean culture is grounded in oral tradition. It is within these embodied, living
 archives—living “istriis” to use the Jamaican language— of songs, stories, movement,
-and gatherings that our history is preserved.”
+and gatherings that our history is preserved.
 
 ### About this Site 
 
-“This project was graciously funded by the York University Research Support Fund.  We also thank the Clara Thomas Archives and Special Collection for their In-kind ($300) support of this project by scanning selected materials from the Heritage Singers Canada fonds. 
+This project was graciously funded by the York University Research Support Fund.  We also thank the Clara Thomas Archives and Special Collection for their In-kind ($300) support of this project by scanning selected materials from the Heritage Singers Canada fonds. 
 
-- **Original site created by:** [Dina Blanco Pena] (https://www.linkedin.com/in/dina-blanco-pena-4261a0289/), [Debbie Ebanks] (https://www.debbieebanksschlums.com/), and Norda Bell 
+- **Original site created by:** <a href="https://www.linkedin.com/in/dina-blanco-pena-4261a0289/">Dina Blanco Pena</a>, <a href="https://www.debbieebanksschlums.com/">Debbie Ebanks</a>, and Norda Bell 
 - **Project Heads:** Debbie Ebanks and Norda Bell
 - **Research Assistant:** Dina Blanco Pena
 
-**Special Thanks:** Grace Lyons, Founder, Heritage Singers;
-Anna St. Onge, Interim University Archivist & Julia Holland, Archives Assistant, Clara Thomas Archives and Special Collections, York University; 
-Kris Joseph, Digital Scholarship Librarian, York University Libraries; 
-Staff at the Clara Thomas Archives and Special Collections, York University Libraries.
+**Special Thanks:** 
+- Grace Lyons, Founder, Heritage Singers
+- Anna St. Onge, Interim University Archivist & Julia Holland, Archives Assistant, <a href="https://www.library.yorku.ca/web/archives/">Clara Thomas Archives and Special Collections </a>, York University; 
+- Kris Joseph, Digital Scholarship Librarian, York University Libraries 
+- Staff at the Clara Thomas Archives and Special Collections, York University Libraries
 
 
 
