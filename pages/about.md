@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="coll034" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the Heritage Singers; About the Site" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Heritage Singers; About this Site" %}
 
 ### About the Collection
 
