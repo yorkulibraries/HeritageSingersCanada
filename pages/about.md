@@ -52,7 +52,7 @@ and gatherings that our history is preserved.”
 
 “This project was graciously funded by the York University Research Support Fund.  We also thank the Clara Thomas Archives and Special Collection for their In-kind ($300) support of this project by scanning selected materials from the Heritage Singers Canada fonds. 
 
-- **Original site created by:** Debbie Ebanks, Dina Blanco Pena and Norda Bell 
+- **Original site created by:** [Dina Blanco Pena] (https://www.linkedin.com/in/dina-blanco-pena-4261a0289/), [Debbie Ebanks] (https://www.debbieebanksschlums.com/), and Norda Bell 
 - **Project Heads:** Debbie Ebanks and Norda Bell
 - **Research Assistant:** Dina Blanco Pena
 
