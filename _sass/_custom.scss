@@ -12,7 +12,11 @@ height: 400px; /* Set desired height */
 }
 
 .carousel-item img {
-object-fit: cover; /* Ensures image fits within the defined height */
-height: 100%; /* Matches the carousel-item height */
-width: 100%; /* Ensures full width */
+	object-fit: cover; /* Ensures image fits within the defined height */
+	height: 100%; /* Matches the carousel-item height */
+	width: 100%; /* Ensures full width */
+}
+
+.bg-dark {
+	color:#43464b;
 }
