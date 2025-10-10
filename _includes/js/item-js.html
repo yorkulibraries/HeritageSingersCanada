@@ -113,11 +113,11 @@ function displayItem(record, prev_id, next_id, compound_object) {
             }
             var timelineButton = '<a href="{{ "/timeline.html" | relative_url }}#y' + itemYear + '" class="btn btn-outline-primary">View on Timeline</a>';
             /* add timeline link to children only if specified in theme.yml */
-            {% if site.data.theme.timeline-child-objects == true %}
+            /*{% if site.data.theme.timeline-child-objects == true %}
                 itemLink += timelineButton;
             {% else %}
                 if (item === record) { itemLink += timelineButton; }
-            {% endif %}
+            {% endif %}*/
         }*/
         {%- endif -%}
         {% if stubs contains "map" %}
