@@ -47,6 +47,8 @@ fonds. Caribbean culture is grounded in oral tradition. It is within these embod
 archives—living “istriis” to use the Jamaican language— of songs, stories, movement,
 and gatherings that our history is preserved.
 
+{% include feature/pdf.html objectid="coll053" width="70" %}
+
 ### About this Site 
 
 This project was graciously funded by the York University Research Support Fund.  We also thank the Clara Thomas Archives and Special Collection for their In-kind ($300) support of this project by scanning selected materials from the Heritage Singers Canada fonds. 
