@@ -4,9 +4,6 @@
 # Curate the timeline by adding a "where" expression to the assign on the first line.
 # For details, see https://collectionbuilder.github.io/cb-docs/docs/advanced/timelinejs/  
 ---
-# First line commented out and new line added to replace default timeline with one that 
-# uses items with a 'headline' field in timelinejs.csv
-#{%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.date' -%}
 {%- assign items = site.data.timelinejs | where_exp: "item","item.headline" -%}
 {
     "title": {
