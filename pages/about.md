@@ -37,7 +37,6 @@ The group&#39;s mission is to “promote the development of Caribbean folk music
 theatre to the greater Canadian community, to donate part of the proceeds from
 fundraising events to charitable organizations, to use folk-singing and dance as tools to
 enhance ethnic, historic, and social traditions relevant to the Caribbean, African, and
-
 other communities, and to bridge cultural gaps by helping other ethnic groups develop
 an awareness of and respect for cultures other than their own.”
 
