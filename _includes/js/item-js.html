@@ -102,7 +102,7 @@ function displayItem(record, prev_id, next_id, compound_object) {
         itemLink = '<div class="btn-group" role="group" aria-label="Item options">'
         {% if stubs contains "timeline" %}
         /* add link to view on timeline */
-        if (item.date) {
+        /*if (item.date) {
             var itemYear;
             if (item.date.includes('-')) {
                 itemYear = item.date.split('-')[0];
@@ -118,7 +118,7 @@ function displayItem(record, prev_id, next_id, compound_object) {
             {% else %}
                 if (item === record) { itemLink += timelineButton; }
             {% endif %}
-        }
+        }*/
         {%- endif -%}
         {% if stubs contains "map" %}
         /* add link to view on map */
