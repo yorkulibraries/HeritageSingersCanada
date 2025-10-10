@@ -10,7 +10,7 @@ credits: true
 
 ## Performances
 
-{% include index/carouselperformance.html title="Sample Items" height=450 %}
+{% include feature/image.html objectid="coll050;coll048;coll045" %}
 
 The Heritage Singers preserve Caribbean culture through folk song and theatrical performance. Their repertoire is highly influenced by the work of ethnomusicologist Olive Lewin who travelled throughout Jamaica’s villages in 1966 and recorded the folk songs of the island. These songs, which were the ways in which “the news” was reported on and shared in the countryside, became the source material for musical arrangements in the group she founded, the Jamaican Folk Singers. Grace Carter-Henry Lyons performed in this group, as did other members of the Heritage Singers, such as Philomen Campbell. The Heritage Singers Canada (HSC), however, diverges from Lewin’s productions by transposing the source material from Jamaica to Toronto. The <a href="https://atom.library.yorku.ca/index.php/heritage-singers-canada-fonds-f0783">Heritage Singers Canada fonds</a> at the <a href="https://www.library.yorku.ca/web/archives/">Clara Thomas Archives and Special Collections</a> includes documentation of the HSC performances, rehearsals, and interviews on VHS tape, audiocassettes, CDs, and photographs. Radio interviews, an appearance on Citytv’s Breakfast Television, and anniversary documentation are intermixed with performances in churches and on the international stage.
 
@@ -18,4 +18,5 @@ Along with the new geography, Lyons created new arrangements, developed scripts 
  
 From the Netherlands to Venezuela, Harlem to Saskatoon, Zacatecas, Mexico to St. Paul’s Bloor Street Church, the Heritage Singers brought and continue to bring Caribbean music, philosophy, news, and language as humble offerings to foster relations with the people and places they live in and move through.
 
+{% include feature/image.html objectid="coll050;coll048;coll045;coll052;coll049" %}
 
