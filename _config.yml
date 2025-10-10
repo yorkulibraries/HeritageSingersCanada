@@ -20,7 +20,7 @@ source-code: https://github.com/yorkulibraries/HeritageSingersCanada
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Heritage Singers Canada Fonds
+title: Heritage Singers Canada Collection
 # tagline, Walk Good!
 tagline: A Selection of Photographs, Videos, and Documents 
 # description appears in meta tags and other locations
@@ -28,7 +28,7 @@ tagline: A Selection of Photographs, Videos, and Documents
 description: "Welcome to the Heritage Singers Canada Collection site. 
 <p> This online exhibit features a selection of some of the photographs, documents and videos highlighting the legacy of the Heritage Singers and their contribution to Caribbean folk music and performance arts."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Heritage Singers Project 
+author: Heritage Singers Canada Project 
 
 ##########
 # COLLECTION SETTINGS
